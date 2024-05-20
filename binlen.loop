@@ -1,0 +1,6 @@
+LOOP x1 DO
+    IF x1 != 0 THEN
+        x1 := x1 DIV 2;
+        x0 := x0 + 1
+    END
+END
